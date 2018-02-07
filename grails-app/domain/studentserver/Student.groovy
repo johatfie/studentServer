@@ -22,6 +22,4 @@ class Student {
         dateOfBirth max: new Date()
         gpa max: 4.0F, min: 0.0F, scale: 2
     }
-
-    //static hasMany = [classes: Class]
 }
